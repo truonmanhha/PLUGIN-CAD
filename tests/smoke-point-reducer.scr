@@ -1,0 +1,9 @@
+_.SECURELOAD
+0
+_.NETLOAD
+"D:/Du An/LISP CAD/LOAD TOOL/CuocSongQuanhTa.CadTools.dll"
+_.NETLOAD
+"D:/Du An/LISP CAD/tests/PointReducerHarness/bin/Release/net8.0-windows/PointReducerHarness.dll"
+TMHREDUCETEST
+_.QUIT
+_Y

@@ -1,0 +1,12 @@
+D:\Du An\LISP CAD\tests\PointReducerHarness\bin\Release\net8.0-windows\PointReducerHarness.deps.json
+D:\Du An\LISP CAD\tests\PointReducerHarness\bin\Release\net8.0-windows\PointReducerHarness.dll
+D:\Du An\LISP CAD\tests\PointReducerHarness\bin\Release\net8.0-windows\PointReducerHarness.pdb
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.csproj.AssemblyReference.cache
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.AssemblyInfoInputs.cache
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.AssemblyInfo.cs
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.csproj.CoreCompileInputs.cache
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.dll
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\refint\PointReducerHarness.dll
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\PointReducerHarness.pdb
+D:\Du An\LISP CAD\tests\PointReducerHarness\obj\Release\net8.0-windows\ref\PointReducerHarness.dll

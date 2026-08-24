@@ -1,0 +1,15 @@
+_.SECURELOAD
+0
+_.LINE
+0,0,10
+100,50,30
+
+_.FLATTEN
+_P
+
+_N
+_.LIST
+_P
+
+_.QUIT
+_Y

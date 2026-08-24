@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0"
+                    AutodeskProduct="AutoCAD"
+                    ProductType="Application"
+                    Name="CuocSongQuanhTa CAD Tools"
+                    AppVersion="0.2.0"
+                    Description="Bo cong cu CAD cua CuocSongQuanhTa"
+                    Author="CuocSongQuanhTa">
+  <CompanyDetails Name="CuocSongQuanhTa" />
+  <Components Description="AutoCAD 2026 - Windows 64-bit">
+    <RuntimeRequirements OS="Win64" Platform="AutoCAD*" SeriesMin="R25.1" SeriesMax="R25.1" />
+    <ComponentEntry AppName="CuocSongQuanhTa.CadTools"
+                    Version="0.2.0"
+                    ModuleName="./Contents/Windows/CuocSongQuanhTa.CadTools.dll"
+                    AppDescription="Palette va cong cu tao PLINE theo bien roi"
+                    LoadOnAutoCADStartup="True">
+      <Commands GroupName="CQTOOLS">
+        <Command Global="CQTOOLS" Local="CQTOOLS" />
+        <Command Global="CQBD" Local="CQBD" />
+        <Command Global="CQBDOUTPUT" Local="CQBDOUTPUT" />
+      </Commands>
+    </ComponentEntry>
+  </Components>
+</ApplicationPackage>

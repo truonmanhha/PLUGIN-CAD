@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CuocSongQuanhTa.CadTools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CuocSongQuanhTa.CadTools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CuocSongQuanhTa.CadTools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CuocSongQuanhTa.CadTools/1.0.0": {
+      "type": "project",
+      "path": "../CuocSongQuanhTa.CadLoader/CuocSongQuanhTa.CadLoader.csproj",
+      "msbuildProject": "../CuocSongQuanhTa.CadLoader/CuocSongQuanhTa.CadLoader.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CuocSongQuanhTa.CadTools >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Truonmanhha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "0.2.0",
+    "restore": {
+      "projectUniqueName": "D:\\Du An\\LISP CAD\\src\\CuocSongQuanhTa.CadTools\\CuocSongQuanhTa.CadTools.csproj",
+      "projectName": "CuocSongQuanhTa.CadTools.Module",
+      "projectPath": "D:\\Du An\\LISP CAD\\src\\CuocSongQuanhTa.CadTools\\CuocSongQuanhTa.CadTools.csproj",
+      "packagesPath": "C:\\Users\\Truonmanhha\\.nuget\\packages\\",
+      "outputPath": "D:\\Du An\\LISP CAD\\src\\CuocSongQuanhTa.CadTools\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Truonmanhha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "D:\\Du An\\LISP CAD\\src\\CuocSongQuanhTa.CadLoader\\CuocSongQuanhTa.CadLoader.csproj": {
+              "projectPath": "D:\\Du An\\LISP CAD\\src\\CuocSongQuanhTa.CadLoader\\CuocSongQuanhTa.CadLoader.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

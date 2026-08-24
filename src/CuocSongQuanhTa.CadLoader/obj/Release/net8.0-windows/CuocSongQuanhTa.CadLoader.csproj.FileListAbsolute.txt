@@ -1,0 +1,12 @@
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadLoader.csproj.AssemblyReference.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadLoader.AssemblyInfoInputs.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadLoader.AssemblyInfo.cs
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadLoader.csproj.CoreCompileInputs.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\bin\Release\net8.0-windows\CuocSongQuanhTa.CadTools.deps.json
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\bin\Release\net8.0-windows\CuocSongQuanhTa.CadTools.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\bin\Release\net8.0-windows\CuocSongQuanhTa.CadTools.pdb
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadTools.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\refint\CuocSongQuanhTa.CadTools.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadTools.pdb
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\ref\CuocSongQuanhTa.CadTools.dll

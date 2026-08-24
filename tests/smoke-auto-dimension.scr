@@ -1,0 +1,9 @@
+_.SECURELOAD
+0
+_.NETLOAD
+"D:/Du An/LISP CAD/tests/PointReducerHarness/bin/Release/net8.0-windows/PointReducerHarness.dll"
+TMHAUTODIMTEST
+_L
+
+_.QUIT
+_Y

@@ -1,0 +1,11 @@
+_.SECURELOAD
+0
+_.NETLOAD
+"D:/Du An/LISP CAD/LOAD TOOL/CuocSongQuanhTa.CadTools.dll"
+CQRELOAD
+_.LINE
+0,0
+10,0
+
+_.QUIT
+_Y

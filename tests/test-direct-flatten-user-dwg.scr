@@ -1,0 +1,12 @@
+_.SECURELOAD
+0
+(arxload "C:/Program Files/Autodesk/AutoCAD 2026/Express/acetutil.arx")
+(load "C:/Program Files/Autodesk/AutoCAD 2026/Express/acetauto.lsp")
+(load "C:/Program Files/Autodesk/AutoCAD 2026/Express/flatten.lsp")
+(setq tmhss (ssget "_X" '((0 . "INSERT") (2 . "hdfh"))))
+(acet-flatn tmhss nil)
+_.NETLOAD
+"D:/Du An/LISP CAD/tests/PointReducerHarness/bin/Release/net8.0-windows/PointReducerHarness.dll"
+TMHINSPECTDWG
+_.QUIT
+_N
