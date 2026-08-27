@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0-windows</TargetFramework>
+    <TargetFramework>net10.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -9,7 +9,7 @@
     <AssemblyName>CuocSongQuanhTa.CadTools.Module</AssemblyName>
     <RootNamespace>CuocSongQuanhTa.CadTools</RootNamespace>
     <Version>0.2.0</Version>
-    <AutoCADDir Condition="'$(AutoCADDir)' == ''">C:\Program Files\Autodesk\AutoCAD 2026</AutoCADDir>
+    <AutoCADDir Condition="'$(AutoCADDir)' == ''">D:\CAD I CAM\CAD\Product\AutoCAD 2027</AutoCADDir>
     <ModuleDllDir>$(MSBuildProjectDirectory)\..\..\LOAD TOOL\Modules</ModuleDllDir>
   </PropertyGroup>
 
