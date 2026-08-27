@@ -1,0 +1,17 @@
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\bin\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module.deps.json
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\bin\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\bin\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module.pdb
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.csproj.AssemblyReference.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\UI\BoundaryPaletteView.baml
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\UI\BoundaryPaletteView.g.cs
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module_MarkupCompile.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module.g.resources
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.AssemblyInfoInputs.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.AssemblyInfo.cs
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.csproj.CoreCompileInputs.cache
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.sourcelink.json
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\refint\CuocSongQuanhTa.CadTools.Module.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\CuocSongQuanhTa.CadTools.Module.pdb
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadTools\obj\Release\net10.0-windows\ref\CuocSongQuanhTa.CadTools.Module.dll

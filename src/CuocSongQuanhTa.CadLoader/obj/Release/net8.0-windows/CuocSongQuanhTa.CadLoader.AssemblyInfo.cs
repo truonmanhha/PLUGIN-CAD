@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuocSongQuanhTa.CadTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1f56f29e4d4c5e74f033724f60d11d8de5b604")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuocSongQuanhTa.CadTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuocSongQuanhTa.CadTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

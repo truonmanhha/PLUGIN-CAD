@@ -10,3 +10,4 @@ D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocS
 D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\refint\CuocSongQuanhTa.CadTools.dll
 D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadTools.pdb
 D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\ref\CuocSongQuanhTa.CadTools.dll
+D:\Du An\LISP CAD\src\CuocSongQuanhTa.CadLoader\obj\Release\net8.0-windows\CuocSongQuanhTa.CadLoader.sourcelink.json
